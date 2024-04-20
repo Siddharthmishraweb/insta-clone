@@ -1,4 +1,4 @@
-# Instagram-clone-AspNetCore-React-Microservice
+![Signup-login](https://github.com/Siddharthmishraweb/insta-clone/assets/72328255/b05f8444-cb99-4970-8d83-5d446a0192b3)# Instagram-clone-AspNetCore-React-Microservice
 
 ## Introduction
 This is clone of Instagram built with Microservice Architecture with React and Asp.net Core. I have created this project to discover the world of Microservices and how they interact in Containerized environment. I have tried to experience the enterprise-level software development techniques like Docker container setup, development with decoupled services talking to each other using a Message Bus, separate environment for Production and Development, Git workflow and more.
@@ -43,29 +43,252 @@ CQRS pattern, Hangfire Job processing, RabbitMq Message Bus, Jwt Authentication,
 | MySql            | Git Version Control |
 | MongoDb          | Hangfire            |
 
-## Application Overview
+## Application Over
+view
 ### User can Sign Up & Login
 <p class="center">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![Signup-login](https://github.com/Siddharthmishraweb/insta-clone/assets/72328255/1b1dfaa1-cc1a-43b3-9de5-f5950cd8b071)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
 </p>
 
 ### User can edit Bio
 <p class="center">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![Edit-bio](https://github.com/Siddharthmishraweb/insta-clone/assets/72328255/8783957e-3d80-49a0-8e4e-5e9de91b3f2e)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
 </p>
 
 ### User can add a Post
 <p class="center">
+
+
+
+
+
+
+
+
+
+
+
+
+
+![Add-Post](https://github.com/Siddharthmishraweb/insta-clone/assets/72328255/d6e4d7a5-3e26-477a-8cfa-c2dc45730d37)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
 </p>
 
 ### UserProfile Walkthrough
 <p class="center">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![Userfeed-overview](https://github.com/Siddharthmishraweb/insta-clone/assets/72328255/ebfa19bb-7475-4b08-badd-20b14e43823a)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
 </p>
 
 ### User Newsfeed Walkthrough
 <p class="center">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![Newsfeed-overview](https://github.com/Siddharthmishraweb/insta-clone/assets/72328255/308c8ab8-c2f3-4b35-988e-daa70d629a8c)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
 </p>
 
 ### Realtime Newsfeed Update
 <p class="center">
+
+
+
+
+
+
+
+
+
+
+
+![Realtime-Newsfeed-new (1)](https://github.com/Siddharthmishraweb/insta-clone/assets/72328255/009fdc31-39e0-466e-bb03-30b30f40c4c1)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
 </p>
 
 ## How to get Project Up & running -- In Development Environment
