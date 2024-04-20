@@ -1,0 +1,1 @@
+export const postFileThumbnailUrl = "/post-api/v1/userposts/filethumb/";
